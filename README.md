@@ -28,7 +28,7 @@ The system also performs sentiment analysis on each message and stores the conve
 
 1. Clone the repository
 
-git clone https://github.com/emanodev/chatbot-pln-python
+git clone https://github.com/emanodev/chatbot-pln-python.git
 
 2. Navigate to the project folder
 
