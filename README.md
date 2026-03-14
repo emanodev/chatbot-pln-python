@@ -28,7 +28,7 @@ The system also performs sentiment analysis on each message and stores the conve
 
 1. Clone the repository
 
-git clone https://github.com/yourusername/chatbot_pln.git
+git clone https://github.com/emanodev/chatbot-pln-python
 
 2. Navigate to the project folder
 
@@ -53,14 +53,6 @@ The graphical interface will open and you can start interacting with the chatbot
 * The chatbot will respond with text and voice
 * Each message will also be analyzed for sentiment
 * Conversations are automatically saved in `historico_chat.txt`
-
-## Project Structure
-
-chatbot_pln
-│
-├── chatbot_pln.py
-├── requirements.txt
-└── README.md
 
 ## Future Improvements
 
