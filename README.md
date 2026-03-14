@@ -65,3 +65,10 @@ The graphical interface will open and you can start interacting with the chatbot
 ## License
 
 This project is open source and available for educational and research purposes.
+
+## Author
+
+Emanoel Victor  
+Data Science Student  
+Brazil
+
