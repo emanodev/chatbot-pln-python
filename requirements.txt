@@ -1,0 +1,5 @@
+nltk
+textblob
+SpeechRecognition
+pyttsx3
+pyaudio
